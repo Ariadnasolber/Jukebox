@@ -1,0 +1,32 @@
+[
+    {
+        "title": "PARANOIA",
+        "artist": "HEARTSTEEL",
+        "src": "./music/HEARTSTEEL - PARANOIA.mp3",
+        "image": "./img/HEARTSTEEL-PARANOIA.jpg"
+    },
+    {
+        "title": "POPSTARS",
+        "artist": "KDA",
+        "src": "./music/KDA - POPSTARS.mp3",
+        "image": "./img/POPSTARS-KDA.jpg"
+    },
+    {
+        "title": "LEGENDS NEVER DIE",
+        "artist": "LEAGUE OF LEGENDS",
+        "src": "./music/LEGENDS NEVER DIE - LEAGUE OF LEGENDS.mp3",
+        "image": "./img/LEGENDSNEVERDIE.jpg"
+    },
+    {
+        "title": "STAR WALKIN",
+        "artist": "LIL NAS X",
+        "src": "./music/LIL NAS X - STAR WALKIN.mp3",
+        "image": "./img/STARWALKING.jpg"
+    },
+    {
+        "title": "GODS",
+        "artist": "NEWJEANS",
+        "src": "./music/NEWJEANS - GODS.mp3",
+        "image": "./img/GODS.jpg"
+    }
+]
